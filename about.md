@@ -1,2 +1,2 @@
-# Test Header
-This is to test the about section of my blog.
+# About KWMA
+I am a programmer who also is also starting to write blogs. 
