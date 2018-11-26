@@ -4,7 +4,7 @@ title: Five Steps to Start Blogging on Github
 categories: [blog]
 ---
 
-Welcome to my first blog! As the starting point of work blog, I am going to demostrate how I actually started this blog, which is itself as easy as 3 steps!
+Welcome to my first blog! As the starting point of work blog, I am going to demostrate how I actually started this blog, which is itself as easy as 5 steps!
 
 There are two reasons for me to come across this idea of writing blogs about my works. First, it helps me memorize the result I spent a lot of time and try-and-error to get, which can also help other people save their time. Second, I recently worked with my wife, Anne, to refresh the look of her blog site on [Pixnet](http://anne0313.pixnet.net/blog), which motivated me to find a blog platform easier to use.
 
