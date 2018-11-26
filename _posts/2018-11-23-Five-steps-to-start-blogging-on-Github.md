@@ -10,9 +10,9 @@ There are two reasons for me to come across this idea of writing blogs about my 
 
 Pixnet is one of the most popular blog platform that Taiwanese bloggers use. It is easy for the bloggers to write posts, get statistics, and manage ads and followers. The downside of Pixnet is that, even though it allows blogger to choose theme or even write custom CSS, the layout is still restricted by the fixed [html structure](http://pic.pimg.tw/pixnetvisual/1187010393.gif). After we finished updating the CSS for Anne's Pixnet blog, I decided to search for a more flexible platform for my own blog. Altough there are a lot of applications which offer this capability, I would rather make the step of writing blog even more simple. What is the simplest way for me to write a blog? When asking myself, the answer is to edit a text file and commit to Git!
 
-This is where I started to look into Github pages. The first thing I learned is Github pages are deeply integrated with [Jekyll](https://jekyllrb.com/). I spent some time reading through [Github's doc](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/) and the Jekyll docs, but wasn't clear enough. I turned to use the engineers' favorite approach -- copying the template and modifying. So here are the 5 steps for you to start your own blog:
+This is where I started to look into Github pages. The first thing I learned is Github pages are deeply integrated with [Jekyll](https://jekyllrb.com/). I spent some time reading through [Github's doc](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/) and the Jekyll docs, but still wasn't clear enough. I turned to use the engineers' favorite approach -- copying the template and modifying. So here are the 5 steps I did to start my blog, and you can follow them to start your own:
 
-```
+
 1. Create a repo with Github pages enabled:
 To enable the pages, go to the settings of the repo and scroll to **GitHub Pages**, and then choose a theme. Github will automatically build the pages using Jekyll. All you get here is a \_config.yml file.
 
@@ -28,6 +28,6 @@ Create a sub-dir named \_posts. In the \_posts directory, create your first post
 
 5. Commit and push to Github.
 There you go. The pages will be automatically built, and you will get a site looks exactly like [this](https://jekyll.github.io/minima/)
-```
+
 
 I have just started to learn front-end development, but with Github pages, I can also start to write blogs at the same time. If you read through this point, you are probably also a beginner like me, and I hope you find this post helpful! 
