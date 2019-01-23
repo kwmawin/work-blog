@@ -5,6 +5,8 @@ categories: [read]
 ---
 This post is used as my notebook for fun readings I recently found on LinkedIn, Medium, and many other places. I will continue to update and add more links!
 
+**Jan 05, 2019** [44 enterprise startups to bet your career on in 2019](https://www.businessinsider.com/44-enterprise-startups-to-bet-your-career-on-in-2019-2018-12). It is always lots of fun to know what (cool) things other people are doing. In this article, a large portion of the "hot" companies are working on network security and devOp. It is impressive to see how valuable it is to invest time and work on technology to make other companies better in terms of safety, efficiency, and scalability.
+
 **Sept 11, 2018** [A comparison between Angular and React and their core languages](https://medium.freecodecamp.org/a-comparison-between-angular-and-react-and-their-core-languages-9de52f485a76). This is a good summary for Angular and React comparison. Both technologies are very popular now. React is released earlier and there has gained more popularity. Angular is also growing and has strong supporter like Google. React's virtual DOM gives the advantage of better performance, while Angular is based on TypeScript which is statically-typed and has higher readability and is easier to maintain.
 
 
