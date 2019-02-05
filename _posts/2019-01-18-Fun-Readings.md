@@ -15,6 +15,8 @@ This post is used as my notebook for fun readings I recently found on LinkedIn, 
 **Sept 1, 2018** [What’s Server Side Rendering and do I need it?](https://medium.com/@baphemot/whats-server-side-rendering-and-do-i-need-it-cb42dc059b38) Server-side rendering has become more and more popular as it tackles a few common issues happen when rendering on client-side. First, rendering can take long time if the internet connection is slow or if the device is old. Also, most search engines do not render a site before indexing it. The easiest way to do server-side rendering is to use ```renderToString```
 provided by ```react-dom``` package, and then set up the server to first render the site as an string, before serving it to the client. In the practice, developer can choose popular framework such as *next.js* or *Gatsby.js*.
 
+**May 3, 2018** [Building your startup with Python, React, React Native and AWS](https://medium.com/proximistyle/building-your-startup-with-python-react-react-native-and-aws-286afd94a29c) This article briefly introduces the tech stack the author used to build her startup. The combination of React and Python back-end is what I am going to use in my small project at work. Because I am going to use internal data of my company, I am not going to use commercial server provide like AWS, but it is interesting to learn about the basic structure of AWS, S3 buckets, and AWS lambda.
+
 ## Machine-Learning
 **Jan 15, 2019** [Looking Back at Google’s Research Efforts in 2018](https://ai.googleblog.com/2019/01/looking-back-at-googles-research.html) by Google AI. A highlight of Google research team's works on various area.
 
